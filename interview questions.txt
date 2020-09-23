@@ -1,0 +1,185 @@
+						1st company 
+
+############################# juspay ###########################################################################################################################################################################
+####
+****************************1st round
+#	Introduce youself
+#	1. You are given an array and you don't know its length find the middle element , without using any inbuilt function;
+#	2. same question continues ..... you have an array of size 1000 and there may have some garbage value and some valid value  , now find the middle element.
+#	3. they asked about OS , compiler design , computer network i said no
+#	4. Given an array find the next maximum element in the aaray for every element
+#		i) when you came up with solution what is it's time complexity
+#		ii) What does Big(O) tells
+#	5. You and me are playing a game and there are 21 sticks and we can choose 1 , 2 , 3 sticks at a time and i play first and you have to win in all cost then how will you play the guy who will pick the last stick
+#   	will win.
+#
+****************************2st round
+#	It was an hackathon two questions was there and they ask the same question every time
+#	question link
+#	"https://leetcode.com/discuss/interview-question/707879/juspay-hiring-challenge-hackathon-interview-experience"
+
+**************************** 3rd round :-
+#	Introduce youself
+#	1. Given an array of string find the time complexity of sorting the element in lexiographically order ( both the element inside the array , and element of array to)
+#	2. You can move only (x , x+y) or (x+y , y) and you have initial position ( a, b) and you have to go ( c , d) return "YES" in case you are able to reach there and "NO" in case you are not
+#	3. What is the response time.
+#	4. how will you decrease the response time.
+#	5. You have to make response time= 0 , how will you do that.
+#	6. About project.
+#	7. DBMS , you have an table employee tell me the person that are working in each department.(wite sql query)
+#	8. proove 0! = 1
+#
+****************************	4th round
+#
+#	2nd part of hackathon question.**
+#
+****************************  5th round  *Discussion round*
+#
+#	Tell me about your life , from class 6th , the things you like the most , the subjects i which you are good at , how the students of the scholl knows you how the teacher knows you 
+#	then about my 10Th , 12 the intersest , in the college how you started coding.
+#	It was the discussion round then suddely sir has asked the question 
+#	-->Why we need multiprogramming.
+#	-->How the single core machine will make the context switch if you are already playing music and also executed scanf
+#	--> if i will give you keys then how will you make it a key borad and how many wire you are going to use , can you do it by using less wire.
+#
+#	They they said you know how things are working but you don't know how actually they are working like you know the software part but not the harware part and everything will come to an hardware
+#	at some point and we want this things to be strong.
+#
+#
+#
+#
+###################################################################################################################################################################################################################
+
+			2nd company
+
+############################## legato ##################################################
+
+Introduce youself
+what is database 
+on which datbases you have worked on
+where the data is stored in the data base
+how you will fetch the top 5 record from the table(database table)
+What is RDBMS.
+Have you worked with linux.
+how the program run in java.
+select the 5th highest salary from the table.
+
+
+				3rd company
+
+############################## infosys for pp(power programmer) ##################################################
+1. Find the leaders in the array , an leader is the element that is greater than or equal to all the elements that are present in it's right side and the rightmost element is always a leader
+	test case:- arr=[23,45,9,7 ,2 ,48 ,5 ,2 ,0 ,5]
+	ans :- 5, 5 , 48
+2. Zig zag travesal of an array (2-D) array:
+	test case : -
+		arr=[
+        		[1,2,3],
+        		[4,5,6],
+        		[7,8,9],
+    			] 	
+	ans =[ 
+	      [1]
+	      [2, 4]
+              [3, 5, 7]
+              [6, 8]
+              [9]
+	     ]
+3. Single ton kind not remmenering not heard this thing.
+13. What are the laguages you are familier with.
+4. What is polymorphism.
+5. Why we use interface.
+6. Why cannot we can use class in place of interface.
+12. In the interface when we redefine the interface mehtods in the class then what is the name of this process.
+7. Were does HTTP and HTTPS works , then a cross question but they can work at application also .
+8. What is hashing.
+9. How hashing works.
+
+10.Do you face any issue in hashing with large amout of data ( did'nt get it)
+	have you heard about hashing colliion
+	what is hashing collision
+	why it occur ( now got the question)
+11. Are you thinking about the higher study.
+12. Which field do you like the most management and technical.
+
+
+				4th company
+
+############################## TCS ##################################################
+	by 1st ma'am
+	1.Introduce yourself
+	2.Apart from python which laguage you know ( i said java and c++) they are more java oriented
+	3.What is oops.
+	4. What are the piller of oops.
+	5. Difference between break and continue.
+	6. what is inheritance , polymorphism , abstraction , encapsulation.
+	7. YOu have an class EMployee having data member ( age , name ,salary ) how you will sort it's object according to salary.
+
+	by 2nd sir.
+	
+	1.Tell me about your project.
+	2.apart from python which other technology you know.
+	3. what kind of job or profile you want from us ( i said desinging part , coding part) cross question we will give you testing profile will you come??
+	4. WHich field you like the most (management/technical)
+	5. Are you looking for higher studies.
+	6. WHat is black box testing.
+	7. DO you  know about datastucture , opps , DBMS ,computer networks ,(i said i;m not comfortable with computer networks)
+	8. What are the different type of linked list.
+	9. WHat is black box testing.
+	
+	by 2nd ma'am
+	1. What is your greatest weakness.
+	(i told her when someone ask me for help it is not easy for me to say him / her no , and i'm always available ofr help) 
+	cross qustion but in this corporate sector we cannot hire you if you will do so here 
+	( so i gave her an example now i'm working on it , firstly i see whether i have some pending works or any goals is there or not then i'll choose whether i'll helo the other person or not)
+	she was satisfied with it.
+
+	2. Arranage them money , brand ,carrier. why after some convo , you can again change you sequence if you want.
+	3. Have you read the terms and condition before coming here ( i said no) then she told me rules.
+		i) if you leave tcs in one year you will be fine 50k.
+		ii) Every data you have provides should be right or else you will not be applicable to apply at TCS at future.
+		iii) do you have active backlogs.
+	4. Are you looking for higher studies.
+	5. Do you have any offer letter in your hand.
+
+(best one)
+#######################################################################################
+
+
+					5th company
+
+####################################		maventic   #####################################################################
+
+	1. introduce youself
+	2. What is your goto language
+	3. what is polymorphism.
+	4. 	a=10
+		if a==10:
+			print(a)
+		else:
+			break
+	what is it's output
+	
+	5. what is abstraction
+	6. print("j"+"a"+"v"+"a") what is it's output.
+	7. what is the thumb rule of transection in DBMS (i didn't get the question so i told him to elaborate)
+		then he said what are the things or the rules are there for which we have to take care about during and trancsectio.
+	8. What is primary key.
+	9. What is atomicity.
+	10. Rate youself in java .
+	11. Rate youself in pyhton.
+	12. Swap two number without using third variable ( not in python style is obvious)
+	13. How will you implement multithreading in python.
+
+####################################################################################################################################################
+
+		
+		
+
+
+	
+	
+	
+
+
+
