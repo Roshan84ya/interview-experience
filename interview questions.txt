@@ -178,6 +178,29 @@ select the 5th highest salary from the table.
 	11. Rate youself in pyhton.
 	12. Swap two number without using third variable ( not in python style is obvious)
 	13. How will you implement multithreading in python.
+	
+	
+	********************************************** ROUND 2 ***************************************************************************
+	1. Ask me any question or i will ask then.
+	2. Introduce yourself.
+	3. What is your goto language --> python , sir python mujhe ni aati
+	4. Mai ek question de raha hu pehle solve kiya ho toh bta dena mai dusra question de dunga.
+		Given two string s1 , s2  and you have a count variable that is initialize with 0 you will increase the count in following ways.
+			--> If a charater will contaning in both the string at the same place then increase it by 2 
+			--> if a character is occurs in both but at different place then increase the count by 1
+			--> use one character only once while calculating count.
+			
+		*Note don't use python
+	5. Banglore kyu aare ho.
+	6. apne aap ko kis field mai dekhna chahate ho ya agle 3 saal mai apne aap ko kaha dekhte ho.
+	7. Mere time mai mere college mai mahool ni tha coding ka tumahre college mai kaisa hai?
+	8. Class mai rank kaise hai (acedemic wise) then coding wise.
+	9. Internship ke liye kab se available ho.
+	10. Total kitne bachhe hai college mai.
+	11. Last year kitne companies aayi thi.
+	12. any question
+	
+	best ever interviwer sir i've ever face they made me so comfortable with him it was really great to have a talk with him.
 
 ####################################################################################################################################################
 
