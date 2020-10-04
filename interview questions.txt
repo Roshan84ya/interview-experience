@@ -15,7 +15,7 @@
 #	1. You are given an array and you don't know its length find the middle element , without using any inbuilt function;
 #	2. same question continues ..... you have an array of size 1000 and there may have some garbage value and some valid value  , now find the middle element.
 #	3. they asked about OS , compiler design , computer network i said no
-#	4. Given an array find the next maximum element in the aaray for every element
+#	4. Given an array find the next maximum element in the array for every element
 #		i) when you came up with solution what is it's time complexity
 #		ii) What does Big(O) tells
 #	5. You and me are playing a game and there are 21 sticks and we can choose 1 , 2 , 3 sticks at a time and i play first and you have to win in all cost then how will you play the guy who will pick the last stick
