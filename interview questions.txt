@@ -76,6 +76,8 @@ select the 5th highest salary from the table.
 				3rd company
 
 ############################## infosys for pp(power programmer 8 lpa) ##################################################
+
+************************** 1st round cleaared **************************************************************************
 1. Find the leaders in the array , an leader is the element that is greater than or equal to all the elements that are present in it's right side and the rightmost element is always a leader
 	test case:- arr=[23,45,9,7 ,2 ,48 ,5 ,2 ,0 ,5]
 	ans :- 5, 5 , 48
@@ -110,10 +112,29 @@ select the 5th highest salary from the table.
 11. Are you thinking about the higher study.
 12. Which field do you like the most management and technical.
 
+********************************************* 2nd round (15 minutes) *********************************************************************************
+Brief intro 
+
+1--> About my project 
+2--> why learned R language.
+3--> Favourite data structure.( i said array)
+4--> why array,
+5--> WHat is pip.
+6--> WHat is map.
+7--> What is dfs.
+8--> What is 3rd normal form
+9--> Are you thinking for higher studies.
+10--> What is right join .
+11--> Where you see yourself in 5 years.
+12--> As you said you have participated in many competition descibe about the one , like the difficulties and how you came over from it.
+13--> Is python case sensitive.
+
+
+
 
 				4th company
 
-############################## TCS ##################################################
+############################## TCS (selected for ninja) ##################################################
 	by 1st ma'am
 	1.Introduce yourself
 	2.Apart from python which laguage you know ( i said java and c++) they are more java oriented
