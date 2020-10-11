@@ -77,7 +77,7 @@ select the 5th highest salary from the table.
 
 ############################## infosys for pp(power programmer 8 lpa) ##################################################
 
-************************** 1st round cleaared **************************************************************************
+************************** 1st round cleared **************************************************************************
 1. Find the leaders in the array , an leader is the element that is greater than or equal to all the elements that are present in it's right side and the rightmost element is always a leader
 	test case:- arr=[23,45,9,7 ,2 ,48 ,5 ,2 ,0 ,5]
 	ans :- 5, 5 , 48
