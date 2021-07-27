@@ -1,0 +1,35 @@
+JAVA has 3 editions 
+JSE :- Standard edition gives the basic knowledge of java and also some high 
+        level classes like database accessing, network, security GUI is there.
+        called core java.
+        Used for develope desktop applications
+JEE :- Java enterprise edition, user to build the applications that runs
+        on server i.e web application.
+JME :- Java micro edition, slimmer version of java is targeted to small devices
+        such as mobile phone.
+
+
+JDK/ JRE/ JVM
+
+JVM :- Runs the precompiled java programs.
+        it contains
+            interpreter
+            Garbage collector.
+
+Difference in JVM compiler and JVM interpreter
+JVM compiler converts the source code to byte code and
+interpreter lives inside the JVM that converts the bytecode to machine understandable
+code.
+
+JRE :- Java runtime enviroment.
+As by name it contains everything required to run a java file i.e
+java class/ pakages /libraries and also JVM resides inside the JRE.
+
+So the JVM, while running the java program used the classes and libraries 
+supplied by JRE.
+If we don't want to write a programm and just wanted to run it then we only
+need JRE.
+
+JDK :- Java development kit as by name it contains everything require to make
+a java program i.e it contains JRE, set of libraries, compiler , JAR and additional
+files need to write the java program.

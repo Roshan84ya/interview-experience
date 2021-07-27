@@ -1,0 +1,41 @@
+what is bytecode?
+
+** bytecode is OOPS code that runs on virtual machine rather than CPU and then
+the VM converts that code to machine understandable language so that 
+CPU can run that and produce the output.
+**Bytecode is platform independent.
+it is the reponsibility of the JVM to convert the bytecode acc. to machine
+
+
+it is also called as portable code or (p-code)
+
+Is JVM platform dependent ?
+Yes, because it takes the java byte code and convert it to current
+OS. So java software is platform dependent and java language is plaform
+independent.
+
+JVM is kind of middle ware between the OS and java language.JVM provides 
+the enviroment to run the java file (class file) so at the end it depends 
+upon the kernal and kernal is different for all the OS.
+
+JAVA is secure why..
+It does not uses pointer explicitly.
+All programs in java runs in specific area called sanbox, this sanbox uses
+bytecode verification process to ensure that the code loaded does not voilate
+java security constraints.
+
+
+Mutithreading :- when we can execute multiple parts or multiple function of
+same programs simmultaneously then it is called multithreading.
+this helps in proper utilization of CPU
+multitsking:- when we execute different programm then it is multitasking.
+
+ex:- if i'm using music player (consider it as a one program)
+and at the same time i'm indreasing volume, searching for another song,
+making any song my favourite adding other songs in queue. this all things are
+done in single program so that is multithreading. But if we will be using
+music player and power point then it is called multitasking.
+
+Mutithreading only single process is allowed having multiple threads that can 
+run simmultaneously.
+multitsking multiple process runs with shared resources.
