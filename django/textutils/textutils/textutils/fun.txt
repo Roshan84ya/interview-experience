@@ -1,0 +1,2 @@
+this is fun.txt file content
+this is second line content
